@@ -1,0 +1,23 @@
+Client Side
+1.HTML
+2.CSS
+3.Animate.CSS
+4.Bootstrap
+5.Lightbox model
+6.javascript
+7.jquery
+8.WOW JS
+
+Server Side
+SERVER USED:XAMPP
+1.PHP
+2.PHP Mailer using gmail server
+
+Database
+1.SQL in local server phpmyadmin.'
+
+ADD ON Integrations
+1.Gopogle Maps.
+2.Google Charts.
+3.Engati Chat Bot.
+4.Pubble question answer community.
